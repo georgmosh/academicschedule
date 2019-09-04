@@ -1,0 +1,4 @@
+ID     NAME   MINDAY    MINWEEK    LESSONS
+K69,        KOUTSOPOULOS,       3,     25,        34F
+K71,       VASSALOS,      5,      30,      23D,      23R,      23G
+T24,       TOUMPIS,      5,      7,      23D,      23R,      23G
